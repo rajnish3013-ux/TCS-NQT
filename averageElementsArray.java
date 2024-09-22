@@ -1,3 +1,6 @@
+
+//Average of elements of given array.
+
 import java.util.*;
 public class averageElementsArray {
 
