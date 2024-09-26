@@ -1,3 +1,5 @@
+//Calculate sum of the elements of  an array
+
 import java.util.*;
 public class elementSumArray {
 

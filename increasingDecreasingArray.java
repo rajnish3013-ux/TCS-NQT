@@ -1,3 +1,6 @@
+
+//Rearrange array in accending order
+
 import java.util.*;
 public class increasingDecreasingArray {
 
