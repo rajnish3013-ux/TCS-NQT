@@ -29,7 +29,7 @@ public class frequencyElement {
                     count++;
                 }
             }
-            System.out.print(arr[i]+ " " +count);
+            System.out.println(arr[i]+ " ====> " +count);
 
         }
 
